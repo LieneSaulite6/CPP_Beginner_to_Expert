@@ -7,7 +7,7 @@ main ()
     //TYPE_OF_VARIABLE nameOfVariable;
     //TYPE_OF_VARIABLE nameOfVariable1, nameOfVariable2, nameOfVariable3;
 
-    int a = 40, b = 0, c = 20; //-a billions to 2 billions, 4 bytes
+    int a = 40, b = 0, c = 20; //-2 billions to 2 billions, 4 bytes
 
     cout << "a : " << a << " address: " << &a << endl;
     cout << "b : " << b << " address: " << &b << endl;
